@@ -36,7 +36,7 @@ O rascunho foi entregue à professora responsável.
 ---
 
 ## 4. Tela Digital do Jogo  
-(imagem)[./imagem.jpg]
+![concept](/imagem.jpg)
 
 O conceito foi adaptado para o formato digital utilizando o Figma, com base em imagens que ajudaram a desenvolver o conceito do jogo, aprimorando os desenhos e dando vida ao game. As cores, os formatos e o layout foram planejados para facilitar a jogabilidade e atrair a atenção do jogador.
 
